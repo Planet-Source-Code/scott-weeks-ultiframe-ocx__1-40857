@@ -1,0 +1,5 @@
+UltiFrame = 66, 66, 595, 514, Z, 44, 44, 573, 492, C
+modEdges = 0, 0, 479, 448, 
+modDeclares = 22, 22, 501, 470, 
+modCaption = 44, 44, 514, 492, 
+frmAbout = 0, 0, 0, 0, C, 22, 22, 492, 470, C
